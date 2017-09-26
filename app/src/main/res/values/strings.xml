@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">W4D4</string>
+    <string name="twitter_consumer_key">Ez9XDReLdH4gFSp0MXNoIL5pK</string>
+    <string name="twitter_consumer_secret">ktFOnLWmggur1x2Cl0k6J2sminzRPGbpdSRHMRU3ZE75KJhSgY</string>
 </resources>
