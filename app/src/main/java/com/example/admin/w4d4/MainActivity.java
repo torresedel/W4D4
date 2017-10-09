@@ -20,14 +20,14 @@ public class MainActivity extends AppCompatActivity {
 
     public void goToSignIn(View view) {
 
-        Intent intent;
+        Intent intent1;
 
         switch (view.getId()){
 
             case R.id.btnTwitter:
 
-                intent = new Intent(this, TwitterActivity.class);
-                startActivity(intent);
+                intent1 = new Intent(this, TwitterActivity.class);
+                startActivity(intent1);
 
                 break;
         }
